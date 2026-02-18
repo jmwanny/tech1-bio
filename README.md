@@ -33,9 +33,11 @@ I love building projects, learning new technologies, and creating modern, respon
 
 ## 📫 Connect with Me
 
-- GitHub: [https://github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)  
-- LinkedIn: [https://www.linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/YOURPROFILE)  
-- Email: `juanmiguelaus2@gmail.com`
+- GitHub: [https://github.com/tech1uan](https://github.com/tech1uan)  
+- LinkedIn: [https://www.linkedin.com/in/juan-miguel-austria-917583375](https://www.linkedin.com/in/juan-miguel-austria-917583375)  
+- Email: juanmiguelaus2@gmail.com  
+- Portfolio: [https://jmaustriaportfolio.vercel.app](https://jmaustriaportfolio.vercel.app)
+
 
 ---
 

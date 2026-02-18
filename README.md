@@ -23,10 +23,10 @@ I love building projects, learning new technologies, and creating modern, respon
 ## 🛠 Tools & IDEs
 
 
- Eclipse  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) 
- IntelliJ IDEA  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
- VS Code  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
- Figma  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) 
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
 
@@ -34,7 +34,7 @@ I love building projects, learning new technologies, and creating modern, respon
 
 - GitHub: [https://github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)  
 - LinkedIn: [https://www.linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/YOURPROFILE)  
-- Email: `your.email@example.com`
+- Email: `juanmiguelaus2@gmail.com`
 
 ---
 

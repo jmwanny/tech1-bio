@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Tech1
+# 👋 Hello World, I'm Tech1uan!
 
 Hi! I'm **Tech1**, a **BSIT 2nd Year student** and an aspiring **Full Stack Developer**.  
 I love building projects, learning new technologies, and creating modern, responsive web experiences.
